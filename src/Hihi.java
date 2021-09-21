@@ -42,6 +42,7 @@ public class Hihi {
                         System.out.println(n / e);
                         break;
                 }
+                System.out.println("změna");
                 break;
 
             case "v":
